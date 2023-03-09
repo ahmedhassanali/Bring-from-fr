@@ -10,7 +10,7 @@ function Header() {
     <>
       <div className="slider">
         <div className="row">
-            <div className="col-md-6  header-content">
+            <div className="col-md-6   header-content">
                 <h1>Buy from the Best Online Stores in France and Ship to your doorstep in Egypt</h1>
                 <div class="input-group">
                     <input type="text" class="form-control" placeholder="Choose your product from Amazon or any website and paste it here"></input>
@@ -22,7 +22,7 @@ function Header() {
                       ))} 
                 </div>
             </div>
-            <div className="col-md-5 header-image">
+            <div className="col-md-5 header-image d-none d-md-block">
                 <img src={ image } alt="" />
             </div>
         </div>

@@ -10,8 +10,8 @@ function Packages() {
             your orders.
           </h1>
           <div>
-            <div className="justify-content-center d-flex">
-              <div className="card col-md-2">
+            <div className="justify-content-center d-flex row">
+              <div className="card col-md-2 col-sm-12">
                 <div className="header">
                   <h3>Shein</h3>
                   <h4>50 <span>EGY/Month</span></h4>
@@ -45,7 +45,7 @@ function Packages() {
                 </div>
                 <button className="Subscribe">Subscribe</button>
               </div>
-              <div className="card col-md-2">
+              <div className="card col-md-2 col-sm-12">
                 <div className="header">
                   <h3>Festival</h3>
                   <h4>49 <span>EGY/Month</span></h4>
@@ -79,7 +79,7 @@ function Packages() {
                 </div>
                 <button className="Subscribe">Subscribe</button>
               </div>
-              <div className="card col-md-2">
+              <div className="card col-md-2 col-sm-12">
                 <div className="header">
                   <h3>Mini</h3>
                   <h4>99 <span>EGY/Month</span></h4>
@@ -113,7 +113,7 @@ function Packages() {
                 </div>
                 <button className="Subscribe">Subscribe</button>
               </div>
-              <div className="card col-md-2">
+              <div className="card col-md-2 col-sm-12">
                 <div className="header">
                   <h3>Flat Rate</h3>
                   <h4>149 <span>EGY/Month</span></h4>
