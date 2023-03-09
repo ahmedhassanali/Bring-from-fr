@@ -1,0 +1,24 @@
+
+
+
+.register .form-control {
+    margin-bottom: 25px;
+}
+
+.register a{
+    text-decoration: none;
+}
+
+.register{
+    padding: 50px 0;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titel{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: blue;
+}

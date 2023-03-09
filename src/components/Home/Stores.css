@@ -1,0 +1,12 @@
+.stores h1{
+    padding: 25px;
+}
+
+
+.stores img{
+    height: 130px;
+    width: auto;
+    display: inline-block;
+    background-color: rgb(64, 82, 247);
+    margin: 10px;
+}

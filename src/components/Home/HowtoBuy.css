@@ -1,0 +1,29 @@
+
+
+
+.how-buy{
+    background-color: rgb(248, 248, 255);
+}
+
+.how-buy h1{
+    padding: 25px;
+}
+
+.embed-responsive-item {
+    width: 90%;
+    height: 500px;
+    display: inline-block;
+}
+
+.embed-responsive {
+    margin:  20px 0px;
+}
+
+.steps{
+    text-align: left;
+    margin:  20px 0px;
+}
+
+.step{
+    margin:  20px 0px;
+}

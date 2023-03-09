@@ -1,0 +1,23 @@
+
+
+.login .form-control {
+    margin-bottom: 25px;
+}
+
+.login a{
+    text-decoration: none;
+}
+
+.login{
+    padding: 50px 0;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titel{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: blue;
+}

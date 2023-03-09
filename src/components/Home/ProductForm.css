@@ -1,0 +1,32 @@
+.content{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.form img{
+    width: 250px;
+}
+
+.form-control ,.form-select{
+    margin:10px 0px;
+}
+
+
+.form-check-input {
+    margin: 0 10px;
+}
+
+.form span {
+    margin: 15px 0;
+}
+
+.form {
+    padding: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+}
+
+.form .add{
+    margin: 10px 0;
+}

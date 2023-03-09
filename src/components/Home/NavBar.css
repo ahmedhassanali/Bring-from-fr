@@ -1,0 +1,23 @@
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.icon  {
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.form {
+    margin: 0px 5px;
+}
+
+.navbar .link{
+    text-decoration: none;
+    margin: 0px 10px;
+    color: black;
+    cursor: pointer;
+
+}

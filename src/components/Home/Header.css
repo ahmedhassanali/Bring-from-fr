@@ -1,0 +1,56 @@
+
+.slider {
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    margin: 40px 0px;
+}
+
+
+.slider h1 {
+    font-family: 'Tajawal', sans-serif;
+    width: auto;
+    display: inline-block;
+}
+
+
+.input-group{
+    margin : 20px 0px
+}
+
+.items img{
+    height: 130px;
+    width: auto;
+    display: inline-block;
+}
+
+.items {
+    background-color: rgb(51, 78, 228);
+    border-radius: 20px;
+    text-align: center;
+    height: 150px;
+    overflow: hidden;
+
+}
+
+.items img{
+    margin: 10px;
+}
+
+a{
+    display: inline-block;
+}
+
+.header-image img{
+    height: 350px;
+    width: 100%;
+}
+
+.header-content{
+    margin: 0px 50px;
+    text-align: left;
+}
+
+.input-group .add{
+    margin: 10px 0px;
+}
