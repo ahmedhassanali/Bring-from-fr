@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Bring-from-fr/static/css/main.45e7ff3c.css",
-    "main.js": "/Bring-from-fr/static/js/main.8fb24e8d.js",
+    "main.css": "/Bring-from-fr/static/css/main.f0fe0c02.css",
+    "main.js": "/Bring-from-fr/static/js/main.41a0eea3.js",
     "static/js/787.ee2a9138.chunk.js": "/Bring-from-fr/static/js/787.ee2a9138.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Bring-from-fr/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Bring-from-fr/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Bring-from-fr/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Bring-from-fr/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Bring-from-fr/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/image.svg": "/Bring-from-fr/static/media/image.378600503dd8073e22d4708f309703bd.svg",
-    "static/media/logo.png": "/Bring-from-fr/static/media/logo.4aa58c37bd2c61cbf08a.png",
+    "static/media/images.svg": "/Bring-from-fr/static/media/images.378600503dd8073e22d4708f309703bd.svg",
+    "static/media/express-delivery.png": "/Bring-from-fr/static/media/express-delivery.fbbfcfe1d15e863dc5fd.png",
     "static/media/check.png": "/Bring-from-fr/static/media/check.17e18c1f96e18c06364b.png",
-    "static/media/logo2.png": "/Bring-from-fr/static/media/logo2.ae62fa3dec7db39289ea.png",
+    "static/media/product.png": "/Bring-from-fr/static/media/product.a3a2176eeae45b1e65d4.png",
     "static/media/5.png": "/Bring-from-fr/static/media/5.97131e5bdfa27e1def16.png",
     "index.html": "/Bring-from-fr/index.html",
-    "main.45e7ff3c.css.map": "/Bring-from-fr/static/css/main.45e7ff3c.css.map",
-    "main.8fb24e8d.js.map": "/Bring-from-fr/static/js/main.8fb24e8d.js.map",
+    "main.f0fe0c02.css.map": "/Bring-from-fr/static/css/main.f0fe0c02.css.map",
+    "main.41a0eea3.js.map": "/Bring-from-fr/static/js/main.41a0eea3.js.map",
     "787.ee2a9138.chunk.js.map": "/Bring-from-fr/static/js/787.ee2a9138.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e7ff3c.css",
-    "static/js/main.8fb24e8d.js"
+    "static/css/main.f0fe0c02.css",
+    "static/js/main.41a0eea3.js"
   ]
 }
