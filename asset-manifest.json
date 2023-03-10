@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bring-from-fr/static/css/main.da06bc84.css",
-    "main.js": "/Bring-from-fr/static/js/main.7c9dbcdf.js",
+    "main.css": "/Bring-from-fr/static/css/main.6177e2a0.css",
+    "main.js": "/Bring-from-fr/static/js/main.4b58c25a.js",
     "static/js/787.ee2a9138.chunk.js": "/Bring-from-fr/static/js/787.ee2a9138.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Bring-from-fr/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Bring-from-fr/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -14,12 +14,12 @@
     "static/media/product.png": "/Bring-from-fr/static/media/product.a3a2176eeae45b1e65d4.png",
     "static/media/5.png": "/Bring-from-fr/static/media/5.97131e5bdfa27e1def16.png",
     "index.html": "/Bring-from-fr/index.html",
-    "main.da06bc84.css.map": "/Bring-from-fr/static/css/main.da06bc84.css.map",
-    "main.7c9dbcdf.js.map": "/Bring-from-fr/static/js/main.7c9dbcdf.js.map",
+    "main.6177e2a0.css.map": "/Bring-from-fr/static/css/main.6177e2a0.css.map",
+    "main.4b58c25a.js.map": "/Bring-from-fr/static/js/main.4b58c25a.js.map",
     "787.ee2a9138.chunk.js.map": "/Bring-from-fr/static/js/787.ee2a9138.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da06bc84.css",
-    "static/js/main.7c9dbcdf.js"
+    "static/css/main.6177e2a0.css",
+    "static/js/main.4b58c25a.js"
   ]
 }
