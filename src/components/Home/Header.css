@@ -56,8 +56,11 @@ a{
 @media (max-width:767px){
 
     .header-content{
-        margin: 5px;
-        padding: 0px 0px;
+        margin: 0px 0px;
+    }
+
+    .header-content .input-group ,h1 ,.items{
+        padding:0px 10px;
     }
 
     .items {

@@ -8,6 +8,8 @@
     width: 250px;
 }
 
+
+
 .form-control ,.form-select{
     margin:10px 0px;
 }
@@ -28,9 +30,13 @@
 }
 
 .form .add{
-    margin: 10px 0;
+    margin: 8px 0;
 }
 
 .form label{
     font-size: small;
+}
+
+.checkbox{
+    text-align: left;
 }

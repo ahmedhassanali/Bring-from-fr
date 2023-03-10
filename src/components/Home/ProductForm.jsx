@@ -6,10 +6,12 @@ function ProductForm(){
         <>
         <div className='container my-5 product-form'>
             <form className="form row">
-                    <img class="col-md-3" src={product} alt="" />
+                    <div className="image col-md-3 col-sm-12">
+                    <img class="" src={product} alt="" />
+                    </div>
                     <div className="col-md-9 content">
                         <div className="row m-2">
-                                <div className="col-6">
+                                <div className="col-md-6">
                                     <select class="form-select" aria-label="Default select example">
                                         <option selected>Country</option>
                                         <option value="1">One</option>
@@ -55,18 +57,18 @@ function ProductForm(){
                     <span><hr/></span>
                     <div className="content row">
                         <p className="col-md-5">If out of stock / Price changed</p>
-                        <div className="col-md-4">
-                            <input placeholder="Category" type="checkbox" className="form-check-input" />
+                        <div className="col-md-4 checkbox">
+                            <input type="checkbox" className="form-check-input" />
                             <label for="vehicle1" className="form-check-label">Purchase the rest of the order's products</label>
                         </div>                           
-                        <div className="col-md-3">
-                        <input placeholder="Category" type="checkbox" className="form-check-input" />
-                            <label for="vehicle1" className="form-check-label">Hold Order</label>                        </div>                       
+                        <div className="col-md-3 checkbox">
+                            <input type="checkbox" className="form-check-input" />
+                        <label for="vehicle1" className="form-check-label">Hold Order</label>                        </div>                       
                         
-                        <div className="col-md-10">
+                        <div className="col-md-10 ">
                             <input placeholder="Note" type="text" className="form-control" />
                         </div>                            
-                        <button type="button" className="btn btn-primary col-md-2 add"> Add </button>
+                        <button type="button" className="btn btn-primary col-md-2 col-11 add"> Add </button>
                     </div>
                 </form>
         </div>
