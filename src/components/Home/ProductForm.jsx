@@ -4,7 +4,7 @@ function ProductForm(){
 
     return(
         <>
-        <div className='container my-5'>
+        <div className='container my-5 product-form'>
             <form className="form row">
                     <img class="col-md-3" src={product} alt="" />
                     <div className="col-md-9 content">

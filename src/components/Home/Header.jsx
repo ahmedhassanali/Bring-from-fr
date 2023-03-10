@@ -9,7 +9,7 @@ function Header() {
   return (
     <>
       <div className="slider">
-        <div className="row co">
+        <div className="row">
             <div className="col-md-6 header-content">
                 <h1>Buy from the Best Online Stores in France and Ship to your doorstep in Egypt</h1>
                 <div class="input-group">
