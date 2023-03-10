@@ -1,5 +1,5 @@
 import "./NavBar.css";
-import logo from "../../assets/NavBar/logo.png";
+import logo from "../../assets/NavBar/express-delivery.png";
 import { Nav, Navbar } from "react-bootstrap";
 import LoginButton from "../components/Login/LoginButton";
 import RegisterButton from "../components/Register/RegisterButton";

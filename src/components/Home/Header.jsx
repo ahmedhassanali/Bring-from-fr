@@ -1,5 +1,5 @@
 import "./Header.css";
-import image from '../../assets/Header/image.svg'
+import image from '../../assets/Header/images.svg'
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 

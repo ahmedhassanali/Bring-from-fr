@@ -5,9 +5,11 @@
 }
 .footer img{
     margin: auto;
+    width: 300px;
     
 }
 .footer .content{
     text-align: left;
     margin: auto;
+    padding: 20px;
 } 
