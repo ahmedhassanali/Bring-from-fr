@@ -35,7 +35,7 @@ export default function Footer() {
             <p>FAQ</p>
             <p>Terms and conditions</p>
             <p>Blog</p>
-            <p>N.Hosny</p>
+            <p>Support</p>
             <p>Privacy and policy</p>
           </div>
 

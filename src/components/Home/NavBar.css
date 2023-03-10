@@ -1,6 +1,7 @@
 .logo {
     height: 50px;
     width: auto;
+    margin: 0px 50px;
 }
 
 .icon  {
@@ -16,8 +17,12 @@
 
 .navbar .link{
     text-decoration: none;
-    margin: 0px 10px;
+    margin: 5px 10px;
     color: black;
     cursor: pointer;
+}
 
+.basic-navbar-nav {
+    display: flex;
+    justify-content: space-between;
 }

@@ -30,3 +30,7 @@
 .form .add{
     margin: 10px 0;
 }
+
+.form label{
+    font-size: small;
+}

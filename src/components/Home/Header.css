@@ -8,9 +8,7 @@
 
 
 .slider h1 {
-    font-family: 'Tajawal', sans-serif;
-    width: auto;
-    display: inline-block;
+    text-align: center;
 }
 
 
@@ -53,4 +51,19 @@ a{
 
 .input-group .add{
     margin: 10px 0px;
+}
+
+
+@media (max-width:767px){
+
+    .header-content{
+        margin: 5px;
+        padding: 0px 0px;
+    }
+
+    .items {
+        border-radius: 15px;
+        height: 300px;
+        overflow: scroll;
+    }
 }

@@ -59,5 +59,12 @@
 }
 
 .card {
-    padding: 10px
+    padding: 10px;
+}
+
+@media (max-width:767px){
+
+    .card {
+        margin: auto ;
+    }
 }
