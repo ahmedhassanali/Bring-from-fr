@@ -12,7 +12,7 @@ function NavBar(props) {
         <Navbar.Brand href="/">
         <img src={logo} className="logo" alt="" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav" className="mx-3" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             <div className="">
