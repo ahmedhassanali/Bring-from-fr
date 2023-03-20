@@ -1,5 +1,6 @@
 import Modal from "react-bootstrap/Modal";
 import "./Login.css";
+import React from 'react'
 
 
 function Login(props) {

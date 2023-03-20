@@ -4,6 +4,7 @@ import { Nav, Navbar } from "react-bootstrap";
 import LoginButton from "../components/Login/LoginButton";
 import RegisterButton from "../components/Register/RegisterButton";
 import { Link } from "react-scroll";
+import React from 'react'
 
 function NavBar(props) {
   return (

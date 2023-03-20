@@ -1,5 +1,6 @@
 import Modal from "react-bootstrap/Modal";
 import './Register.css'
+import React from 'react'
 
 function Register(props) {
   return (

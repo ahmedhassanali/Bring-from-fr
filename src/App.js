@@ -6,6 +6,7 @@ import HowToBuy from './components/Home/HowToBuy';
 import Packages from './components/Home/Packages';
 import Stores from './components/Home/Stores';
 import ProductForm from './components/Home/ProductForm';
+import React from 'react'
 
 
 

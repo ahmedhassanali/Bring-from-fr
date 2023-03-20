@@ -1,5 +1,7 @@
 import "./Packages.css";
 import checked from "../../assets/Packages/check.png";
+import React from 'react'
+
 function Packages() {
   return (
     <>

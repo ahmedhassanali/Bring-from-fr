@@ -27,6 +27,7 @@
     text-align: center;
     height: 150px;
     overflow: hidden;
+    margin-top: 20px;
 
 }
 
@@ -39,7 +40,7 @@ a{
 }
 
 .header-image img{
-    height: 350px;
+    height: 300px;
     width: 100%;
 }
 

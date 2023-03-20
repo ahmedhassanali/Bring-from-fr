@@ -1,4 +1,5 @@
 import "./HowtoBuy.css";
+import React from 'react'
 
 function HowToBuy() {
   return (

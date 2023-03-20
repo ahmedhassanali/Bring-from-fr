@@ -1,6 +1,17 @@
 import product from "../../assets/ProductForm/product.png";
 import './ProductForm.css'
+import React, { useEffect } from 'react'
+import { useDispatch, useSelector } from "react-redux";
+import { fetchCategories } from "../../rtk/slices/CategoriesSlice";
+
 function ProductForm(){
+
+    const categories = useSelector(state => state.categories);
+    const dispatch = useDispatch();
+  
+    useEffect(() => {
+      dispatch(fetchCategories());
+    }, []);
 
     return(
         <>
@@ -11,27 +22,22 @@ function ProductForm(){
                     </div>
                     <div className="col-md-9 content">
                         <div className="row m-2">
-                                <div className="col-md-6">
-                                    <select class="form-select" aria-label="Default select example">
-                                        <option selected>Country</option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
-                                    </select>
+                                <div class="col-md-12">
+                                    <input type="text" class="form-control" placeholder="Choose your product from Amazon or any website and paste it here"></input>
                                 </div>
+
+                                <div className="col-md-6">
+                                    <input placeholder="Product Name" type="text" className="form-control" />
+                                </div>
+
                                 <div className="col-md-6">
                                     <select class="form-select" aria-label="Default select example">
-                                        <option selected>Category</option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
+                                    {categories.map((category)=>(
+                                        <option selected key={category.id} value={categories.id}>{category.name}</option>
+                                    ))}
                                     </select>
                                 </div>  
 
-                                <div className="col-md-12">
-                                    <input placeholder="Product Name" type="text" className="form-control" />
-                                </div>
-            
                                 <div className="col-md-4">
                                     <input placeholder="Price" type="number" className="form-control" />
                                 </div>

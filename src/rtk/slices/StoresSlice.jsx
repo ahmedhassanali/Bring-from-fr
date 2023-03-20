@@ -1,11 +1,10 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import data from '../../data/StoresData'
 export const fetchStores = createAsyncThunk(
     "StoresSlice/fetchStores",
     async () => {
-        // const res = await fetch("https://fakestoreapi.com/Stores");
-        // const data = await res.json();
-        return data;
+        const res = await fetch("http://127.0.0.1:8000/api/stores");
+        const data = await res.json();
+        return data.data;
     }
 );
 
@@ -20,5 +19,5 @@ const StoresSlice = createSlice({
     }
 })
 
-export const {} = StoresSlice.actions;
+// export const {} = StoresSlice.actions;
 export default StoresSlice.reducer;
